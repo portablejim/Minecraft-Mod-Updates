@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="xsl-stylesheet.xsl"?>
+<!-- Usage notes
+      * Please use  &amp;  instead of just  &
+      * Please use  &lt; instead of  <
+      * Please use  &gt; instead of >
+      * Please use  &quot; to get a double quotation mark inside a quoted string
+      * Double quote strings
+
+      States:
+      updated = Updated
+      inprogress = In-Progress
+      pending = Pending
+      unstarted = Unstarted
+      notupdating = Not Updating
+      discontinued = Discontinued
+-->
+<list version="1.8">
+    <category name="Core mods">
+        <mod name="Forge &amp; FML" state="pending" note=""/>
+        <mod name="CoFH Core" state="pending" note=""/>
+        <mod name="CoFHLib" state="pending" note=""/>
+        <mod name="CodeChickenCore" state="pending" note=""/>
+        <mod name="CodeChickenLib" state="pending" note=""/>
+        <mod name="Baubles" state="pending" note=""/>
+        <mod name="KingCore" state="pending" note=""/>
+        <mod name="Dragon API" state="pending" note=""/>
+        <mod name="Mantle" state="pending" note=""/>
+        <mod name="PowerCrystals Core" state="pending" note=""/>
+        <mod name="OpenMods Lib" state="pending" note=""/>
+        <mod name="Turbo" state="pending" note=""/>
+    </category>
+
+    <category name="RF Mods/Addons">
+        <mod name="Thermal Expansion" state="pending" note=""/>
+        <mod name="Thermal Foundation" state="pending" note=""/>
+        <mod name="Redstone Arsenal" state="pending" note=""/>
+    </category>
+    <category name="IC2 Mods/Addons">
+        <mod name="IndustrialCraft2" state="pending" note=""/>
+        <mod name="GregTech" state="pending" note=""/>
+        <mod name="Nuclear Control 2" state="unstarted" note=""/>
+        <mod name="Transformers Converters 1" state="discontinued" note="See: Transformer Convertors 2."/>
+        <mod name="Transformers Converters 2" state="pending" note=""/>
+        <mod name="Advanced Machines (Atomic)" state="pending" note=""/>
+        <mod name="Advanced Machines (Immibis)" state="pending" note=""/>
+        <mod name="Advanced Solar Panels" state="pending" note=""/>
+        <mod name="CompactSolars" state="pending" note=""/>
+        <mod name="IC2 Tweaks" state="pending" note=""/>
+        <mod name="Iridium Mod" state="pending" note=""/>
+        <mod name="E-Net Bridge" state="pending" note=""/>
+        <mod name="Compact Watermills" state="pending" note=""/>
+        <mod name="Power Utilities" state="pending" note="(Unofficially) replaced with E-Net Bridge."/>
+        <mod name="Bio Materials" state="pending" note=""/>
+        <mod name="Gravitation Suite" state="pending" note=""/>
+        <mod name="IHL Tools and Machines" state="pending" note=""/>
+        <mod name="The Beared Potato" state="pending" note=""/>
+        <mod name="Electro-Magic-Tools" state="pending" note=""/>
+        <mod name="Advanced Repulsion Systems" state="pending" note=""/>
+        <mod name="IndustrialEx" state="unstarted" note=""/>
+    </category>
+    <category name="Buildcraft Mods/Addons">
+        <mod name="BuildCraft" state="pending" note=""/>
+        <mod name="BuildCraft Tools" state="pending" note=""/>
+        <mod name="BuildCraft Additions" state="pending" note=""/>
+        <mod name="Additional Pipes" state="pending" note=""/>
+    </category>
+    <category name="Thaumcraft Mods/Addons">
+        <mod name="Thaumcraft" state="pending" note=""/>
+        <mod name="Thaumic Tinker" state="pending" note=""/>
+    </category>
+    <category name="Tinker's Construct Mods/Addons">
+        <mod name="Tinkers' Construct" state="pending" note=""/>
+        <mod name="Iguanas Tinker Tweaks" state="pending" note=""/>
+        <mod name="ExtraTiC" state="pending" note=""/>
+        <mod name="TiC Tooltips" state="pending" note=""/>
+        <mod name="AOBD 2" state="pending" note=""/>
+    </category>
+    <category name="Misc. Tech-themed Forge mods">
+        <mod name="More Pistons (Smeagol)" state="pending" note=""/>
+    </category>
+    <category name="Non-forge mods">
+        <mod name="ModLoader" state="discontinued"
+             note="Risugami has said many times on IRC that he doesn't care about his mods anymore."/>
+        <mod name="BlazeLoader" state="pending" note=""/>
+        <mod name="Better than Wolves" state="notupdating" note="Flowerchild plans to stay in v1.5.2 of Minecraft."/>
+        <mod name="LiteLoader" state="pending" note=""/>
+    </category>
+</list>
