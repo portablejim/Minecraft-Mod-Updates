@@ -30,6 +30,7 @@
         <mod name="PowerCrystals Core" state="pending" note=""/>
         <mod name="OpenMods Lib" state="pending" note=""/>
         <mod name="Turbo" state="pending" note=""/>
+        <mod name="OpenEye" state="pending" note=""/>
     </category>
 
     <category name="RF Mods/Addons">
@@ -82,6 +83,8 @@
     <category name="Computercraft Mods/Addons">
          <mod name="Computercraft" state="pending" note=""/>
          <mod name="MiscPeripherals" state="pending" note=""/>
+         <mod name="OpenPeripherals Core" state="pending" note=""/>
+         <mod name="OpenPeripherals Addons" state="pending" note="This IS the name of the mod, it's not multiable mods"/>
     </category>
     <category name="RPG Mods/Addons">
          <mod name="Divine RPG" state="pending" note=""/>
@@ -89,6 +92,8 @@
     </category>
     <category name="Misc. Standalone Tech-themed Forge mods">
         <mod name="More Pistons (Smeagol)" state="pending" note=""/>
+        <mod name="OpenBlocks" state="pending" note=""/>
+        <mod name="NotEnoughCodecs" state="pending" note=""/>
     </category>
     <category name="Non-forge mods">
         <mod name="ModLoader" state="discontinued"
