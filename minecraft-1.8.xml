@@ -16,6 +16,7 @@
       discontinued = Discontinued
 -->
 <list version="1.8">
+    <warning>You need scripts enabled (specifically XSLT permission) to view this page properly.</warning>
     <category name="Core mods">
         <mod name="Forge &amp; FML" state="pending" note=""/>
         <mod name="CoFH Core" state="pending" note=""/>
