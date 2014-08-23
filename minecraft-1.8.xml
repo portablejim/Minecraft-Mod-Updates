@@ -36,6 +36,8 @@
         <mod name="Thermal Expansion" state="pending" note=""/>
         <mod name="Thermal Foundation" state="pending" note=""/>
         <mod name="Redstone Arsenal" state="pending" note=""/>
+        <mod name="Advanced Fluxian Tools" state="pending" note=""/>
+        <mod name="Simply Jetpacks" state="pending" note=""/>
     </category>
     <category name="IC2 Mods/Addons">
         <mod name="IndustrialCraft2" state="pending" note=""/>
@@ -77,12 +79,20 @@
         <mod name="TiC Tooltips" state="pending" note=""/>
         <mod name="AOBD 2" state="pending" note=""/>
     </category>
-    <category name="Misc. Tech-themed Forge mods">
+    <category name="Computercraft Mods/Addons">
+         <mod name="Computercraft" state="pending" note=""/>
+         <mod name="MiscPeripherals" state="pending" note=""/>
+    </category>
+    <category name="RPG Mods/Addons">
+         <mod name="Divine RPG" state="pending" note=""/>
+         <mod name="Mists Of RioV" state="pending" note=""/>
+    </category>
+    <category name="Misc. Standalone Tech-themed Forge mods">
         <mod name="More Pistons (Smeagol)" state="pending" note=""/>
     </category>
     <category name="Non-forge mods">
         <mod name="ModLoader" state="discontinued"
-             note="Risugami has said many times on IRC that he doesn't care about his mods anymore."/>
+             note="Risugami has stated many times on IRC that he doesn't care about his mods anymore."/>
         <mod name="BlazeLoader" state="pending" note=""/>
         <mod name="Better than Wolves" state="notupdating" note="Flowerchild plans to stay in v1.5.2 of Minecraft."/>
         <mod name="LiteLoader" state="pending" note=""/>
