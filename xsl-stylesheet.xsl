@@ -109,4 +109,5 @@
             <td><xsl:value-of select="@note"/></td>
         </tr>
     </xsl:template>
+    <xsl:template match="warning" />
 </xsl:stylesheet>
