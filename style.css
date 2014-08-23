@@ -1,0 +1,50 @@
+body {
+    padding: 1em;
+    background-color: rgb(20, 20, 20);
+    background: url("https://minecraft.net/images/bg_main.png") repeat scroll 0 0 #111;
+    color: #E0D0D0;
+}
+
+a {
+    color: #D0C0F0
+}
+
+.inset {
+    margin: 2em 8em;
+}
+
+.inset div {
+    padding: 0.5em;
+}
+
+td {
+    color: #111111;
+    padding: 0.3em 0.5em 0.2em;
+    border-right:  0.1em solid #111111;
+    border-bottom:  0.1em solid #222222;
+}
+
+.updated {
+    background-color: #AAFF00;
+}
+
+.inprogress {
+    background-color: #4ECDC4;
+}
+
+.pending {
+    background-color: #FFDD00;
+}
+
+.unstarted {
+    background-color: #FFAA00;
+}
+
+.notupdating {
+    background-color: #FF6B6B;
+}
+
+.discontinued {
+    background-color: #556270;
+    color: #EDEDED
+}
