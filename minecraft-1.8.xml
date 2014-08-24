@@ -111,8 +111,7 @@
         <mod name="NotEnoughCodecs" state="pending" note=""/>
     </category>
     <category name="Non-forge mods">
-        <mod name="ModLoader" state="discontinued"
-             note="Risugami has stated many times on IRC that he doesn't care about his mods anymore."/>
+        <mod name="ModLoader" state="discontinued" note="Risugami has stated many times on IRC that he doesn't care about his mods anymore."/>
         <mod name="BlazeLoader" state="pending" note=""/>
         <mod name="Better than Wolves" state="notupdating" note="Flowerchild plans to stay in v1.5.2 of Minecraft."/>
         <mod name="LiteLoader" state="pending" note=""/>
