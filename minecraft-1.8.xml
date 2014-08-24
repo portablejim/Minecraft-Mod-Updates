@@ -73,6 +73,21 @@
         <mod name="Thaumcraft" state="pending" note=""/>
         <mod name="Thaumic Tinker" state="pending" note=""/>
     </category>
+    <category name="Reika's mods">
+         <mod name="Rotarycraft" state="pending" note=""/>
+         <mod name="Reactorycraft" state="pending" note=""/>
+         <mod name="Electricraft" state="pending" note=""/>
+         <mod name="Expanded Redstone" state="pending" note=""/>
+         <mod name="GeoStrata" state="pending" note=""/>
+         <mod name="Meteorcraft" state="pending" note=""/>
+         <mod name="Dye Trees" state="pending" note=""/>
+         <mod name="Ender Forest" state="pending" note=""/>
+         <mod name="Cave Control" state="pending" note=""/>
+         <mod name="CritterPet" state="pending" note=""/>
+         <mod name="Useful TNT" state="pending" note=""/>
+         <mod name="Legacycraft" state="pending" note=""/>
+         <mod name="Void Monster" state="Pending" note=""/>
+    </category>
     <category name="Tinker's Construct Mods/Addons">
         <mod name="Tinkers' Construct" state="pending" note=""/>
         <mod name="Iguanas Tinker Tweaks" state="pending" note=""/>
