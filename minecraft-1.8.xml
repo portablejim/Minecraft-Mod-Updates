@@ -89,12 +89,43 @@
          <mod name="Legacycraft" state="pending" note=""/>
          <mod name="Void Monster" state="Pending" note=""/>
     </category>
+    <category name="iChun's Mods">
+         <mod name="Attachable Grinder" state="pending" note=""/>
+         <mod name="Back Tools" state="pending" note=""/>
+         <mod name="Death Counter" state="pending" note=""/>
+         <mod name="Gravity Gun" state="pending" note=""/>
+         <mod name="Hats" state="pending" note=""/>
+         <mod name="It Fell from the Sky" state="pending" note=""/>
+         <mod name="Mob Amputation" state="pending" note=""/>
+         <mod name="Mob Dismemberment" state="pending" note=""/>
+         <mod name="Morph" state="pending" note=""/>
+         <mod name="Photoreal" state="pending" note=""/>
+         <mod name="Picture-in-Picture" state="pending" note=""/>
+         <mod name="Pig Grinder" state="discontinued" note="Replaced by Attachable Grinder"/>
+         <mod name="PortalGun" state="pending" note=""/>
+         <mod name="Shatter" state="pending" note=""/>
+         <mod name="Slender" state="discontinued" note=""/>
+         <mod name="Streak" state="pending" note=""/>
+         <mod name="Sync" state="pending" note=""/>
+         <mod name="Torched" state="pending" note=""/>
+         <mod name="Trail Mix" state="pending" note=""/>
+    </category>
     <category name="Tinker's Construct Mods/Addons">
         <mod name="Tinkers' Construct" state="pending" note=""/>
         <mod name="Iguanas Tinker Tweaks" state="pending" note=""/>
         <mod name="ExtraTiC" state="pending" note=""/>
         <mod name="TiC Tooltips" state="pending" note=""/>
         <mod name="AOBD 2" state="pending" note=""/>
+    </category>
+    <category name="Applied Energistics Mods/Addons">
+         <mod name="Applied Energistics 2" state="pending" note=""/>
+         <mod name="Extra Cells 2" state="pending" note=""/>
+         <mod name="AE2 Tech Add-On" state="pending" note=""/>
+         <mod name="Thaumic Energistics" state="pending" note=""/>
+    </category>
+    <category name="Railcraft Mods/Addons">
+         <mod name="Railcraft" state="pending" note=""/>
+         <mod name="Advanced Turbines" state="pending" note=""/>
     </category>
     <category name="Computercraft Mods/Addons">
          <mod name="Computercraft" state="pending" note=""/>
