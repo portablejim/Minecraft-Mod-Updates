@@ -146,6 +146,15 @@
          <mod name="Tiny Carts" state="pending" note=""/>
          <mod name="TubeStuff" state="pending" note=""/>
     </category>
+    <category name="Modpack Tools/Mods/Addons">
+         <mod name="Endermanage Mod" state="pending" note=""/>
+         <mod name="MineTweaker" state="pending" note=""/>
+         <mod name="ModTweaker" state="pending" note=""/>
+    </category>
+    <category name="Preformance Mods/Addons">
+         <mod name="Optifine" state="pending" note=""/>
+         <mod name="AllTheItems" state="pending" note=""/>
+    </category>
     <category name="RPG Mods/Addons">
          <mod name="Divine RPG" state="pending" note=""/>
          <mod name="Mists Of RioV" state="pending" note=""/>
@@ -154,6 +163,8 @@
         <mod name="More Pistons (Smeagol)" state="pending" note=""/>
         <mod name="OpenBlocks" state="pending" note=""/>
         <mod name="NotEnoughCodecs" state="pending" note=""/>
+        <mod name="Redstone Paste Mod" state="pending" note=""/>
+        <mod name="Hopper Ducts Mod" state="pending" note=""/>
     </category>
     <category name="Non-forge mods">
         <mod name="ModLoader" state="discontinued" note="Risugami has stated many times on IRC that he doesn't care about his mods anymore."/>
