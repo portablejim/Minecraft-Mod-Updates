@@ -18,7 +18,7 @@
 <list version="1.8">
     <warning>You need scripts enabled (specifically XSLT permission) to view this page properly.</warning>
     <category name="Core mods">
-        <mod name="Forge &amp; FML" state="pending" note=""/>
+        <mod name="Forge &amp; FML" state="inprogress" note=""/>
         <mod name="CoFH Core" state="pending" note=""/>
         <mod name="CoFHLib" state="pending" note=""/>
         <mod name="CodeChickenCore" state="pending" note=""/>
@@ -32,6 +32,9 @@
         <mod name="Turbo" state="pending" note=""/>
         <mod name="OpenEye" state="pending" note=""/>
         <mod name="Immibis Core" state="pending" note=""/>
+    </category>
+    <category name="Utility Mods/Addons">
+         <mod name="TooManyItems" state="pending" note="updated"/>
     </category>
 
     <category name="RF Mods/Addons">
@@ -109,6 +112,9 @@
          <mod name="Sync" state="pending" note=""/>
          <mod name="Torched" state="pending" note=""/>
          <mod name="Trail Mix" state="pending" note=""/>
+    </category>
+    <category name="Mobs Mods/Addons">
+         <mod name="Ambient Birds" state="updated" note=""/>
     </category>
     <category name="Tinker's Construct Mods/Addons">
         <mod name="Tinkers' Construct" state="pending" note=""/>
