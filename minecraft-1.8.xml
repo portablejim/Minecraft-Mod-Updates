@@ -117,6 +117,7 @@
     </category>
     <category name="Mobs Mods/Addons">
          <mod name="Ambient Birds" state="updated" note=""/>
+         <mod name="Mo Creators" state="pending" note=""/>
     </category>
     <category name="Tinker's Construct Mods/Addons">
         <mod name="Tinkers' Construct" state="pending" note=""/>
