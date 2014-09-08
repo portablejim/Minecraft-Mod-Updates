@@ -19,6 +19,7 @@
     <warning>You need scripts enabled (specifically XSLT permission) to view this page properly.</warning>
     <category name="Core mods">
         <mod name="Forge &amp; FML" state="inprogress" note=""/>
+        <mod name="Sponge" state="inprogress" note=""/>
         <mod name="CoFH Core" state="pending" note=""/>
         <mod name="CoFHLib" state="pending" note=""/>
         <mod name="CodeChickenCore" state="pending" note=""/>
