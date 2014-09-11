@@ -72,8 +72,6 @@
         <mod name="BuildCraft Tools" state="pending" note=""/>
         <mod name="BuildCraft Additions" state="pending" note=""/>
         <mod name="Additional Pipes" state="pending" note=""/>
-        <mod name="Transformers Converters 1" state="discontinued" note="See: Transformer Convertors 2."/>
-        <mod name="Transformers Convertors 2" state="pending" note="Not discontinued, however I got sick of it being on the IC2 Forums."/>
     </category>
     <category name="Thaumcraft Mods/Addons">
         <mod name="Thaumcraft" state="pending" note=""/>
@@ -154,6 +152,17 @@
          <mod name="Simple Recycling" state="pending" note=""/>
          <mod name="Tiny Carts" state="pending" note=""/>
          <mod name="TubeStuff" state="pending" note=""/>
+    </category>
+    <category name="Master801's mods">
+          <mod name="801-Core" state="pending" note="">
+          <mod name="Transformers Converters 1" state="discontinued" note="See: Transformer Convertors 2."/>
+          <mod name="Transformers Convertors 2" state="pending" note="Not discontinued, however I got sick of it being on the IC2 Forums."/>
+          <mod name="Huge Trees" state="pending" note="">
+          <mod name="Coloured Beds Mod" state="discontinued" note="See: Coloured Beds Mod 2.">
+          <mod name="Coloured Beds Mod 2" state="pending" note="">
+          <mod name="Sign tags" state="discontinued" note="Risugami's old mod. Implemented into '801-Core' as a plugin.>
+          <mod name="Shelf" state="pending" note="Risugami's old mod.">
+          <mod name="Biosphere" state="pending" note="Risugami's old mod.">
     </category>
     <category name="Modpack Tools/Mods/Addons">
          <mod name="Endermanage Mod" state="pending" note=""/>
