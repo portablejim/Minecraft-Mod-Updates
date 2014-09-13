@@ -14,6 +14,9 @@
       unstarted = Unstarted
       notupdating = Not Updating
       discontinued = Discontinued
+      
+      Remember: after making a change, check the page to make sure everything is 
+      in line and not broken.
 -->
 <list version="1.8">
     <warning>You need scripts enabled (specifically XSLT permission) to view this page properly.</warning>
