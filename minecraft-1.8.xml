@@ -40,7 +40,7 @@
     </category>
     <category name="Utility Mods/Addons">
          <mod name="TooManyItems" state="updated" note=""/>
-         <mod="ChatLog" state="updated" note=""/>
+         <mod name="ChatLog" state="updated" note=""/>
     </category>
 
     <category name="RF Mods/Addons">
